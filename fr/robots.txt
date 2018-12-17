@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rileym11.github.io/colette-built//sitemap.xml
+Sitemap: https://colettesnyder.com//sitemap.xml
